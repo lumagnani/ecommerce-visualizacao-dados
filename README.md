@@ -62,7 +62,7 @@ Durante a análise, foram desenvolvidos os seguintes gráficos:
 
 Cada gráfico possui título, eixos identificados e uma breve análise explicando os resultados observados.
 
-🛠️ Ferramentas utilizadas
+## 🛠️ Ferramentas utilizadas
 
 - Python
 
